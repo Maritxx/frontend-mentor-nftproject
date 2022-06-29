@@ -48,7 +48,7 @@ a:hover, .nft-creator__attribution a:hover {
 /*Preview Card*/
 .preview-card {
 	border-radius: 10px;
-	padding: 30px 15px;
+	padding: 60px 20px;
 	background-color: var(--border-bg)	
 }
 
@@ -110,7 +110,7 @@ a:hover, .nft-creator__attribution a:hover {
 /*Overlay Styling*/
 .overlay {
 	position: absolute;
-	background-color: rgba(0, 255, 247, 0.3);
+	background-color: rgba(0, 255, 247, 0.5);
 	border-radius: 10px;
 	opacity: 0;
 	top: 0;
