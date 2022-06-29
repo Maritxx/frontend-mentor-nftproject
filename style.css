@@ -123,6 +123,10 @@ a:hover .overlay {
 	transition: 0.5s;
 }
 
+.preview-card__image {
+	position: relative;
+}
+
 /*Attribution Styling*/
 .attribution {
 	font-size: 11px; 
