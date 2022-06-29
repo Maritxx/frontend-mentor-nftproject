@@ -47,8 +47,8 @@ a:hover, .nft-creator__attribution a:hover {
 
 /*Preview Card*/
 .preview-card {
-	border-radius: 10px;
-	padding: 60px 20px;
+	border-radius: 25px;
+	padding: 45px 20px;
 	background-color: var(--border-bg)	
 }
 
