@@ -111,6 +111,7 @@ a:hover, .nft-creator__attribution a:hover {
 .overlay {
 	position: absolute;
 	background-color: var(--cyan);
+	border-radius: 10px;
 	opacity: 0;
 	top: 0;
 	left: 0;
@@ -118,8 +119,12 @@ a:hover, .nft-creator__attribution a:hover {
 	height: 100%;
 }
 
+.overlay img {
+	height: 32px;
+}
+
 a:hover .overlay {
-	opacity: 0.5;
+	opacity: 0.3;
 	transition: 0.5s;
 }
 
